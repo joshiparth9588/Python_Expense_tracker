@@ -1,0 +1,60 @@
+[
+    {
+        "amount": 250.0,
+        "category": "Food",
+        "note": "Lunch",
+        "date": "2026-10-31"
+    },
+    {
+        "amount": 500.0,
+        "category": "Food",
+        "note": "Lunch",
+        "date": "2026-10-31"
+    },
+    {
+        "amount": 200.0,
+        "category": "2",
+        "note": "",
+        "date": "2026-10-31"
+    },
+    {
+        "amount": "500",
+        "category": "Food"
+    },
+    {
+        "amount": "500",
+        "category": "Food"
+    },
+    {
+        "amount": "500",
+        "category": "Food"
+    },
+    {
+        "amount": "500",
+        "category": "Food"
+    },
+    {
+        "amount": "500",
+        "category": "Food"
+    },
+    {
+        "amount": "500",
+        "category": "Food"
+    },
+    {
+        "amount": "500",
+        "category": "Food"
+    },
+    {
+        "amount": "500",
+        "category": "Food"
+    },
+    {
+        "amount": "500",
+        "category": "Food"
+    },
+    {
+        "amount": 500.0,
+        "category": "Food"
+    }
+]
